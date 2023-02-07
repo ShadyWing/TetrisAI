@@ -1,0 +1,80 @@
+﻿  Tetris.cpp
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.h(48,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYROLE”的左侧
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.h(59,2): warning C4091: “typedef ”: 没有声明变量时忽略“gridShape”的左侧
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(129,30): warning C4305: “-=”: 从“double”到“float”截断
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(233,38): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(258,41): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(398,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(398,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(400,40): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(400,26): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(408,73): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(408,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(409,40): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(409,26): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(423,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(423,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(424,41): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(424,27): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(432,66): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(432,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(433,57): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(433,34): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(442,67): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(442,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(443,58): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(443,35): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(660,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(660,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(661,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(661,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(664,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(664,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(1210,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\TetrisAI\Tetris.cpp(1223,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 244 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TetrisAI.vcxproj -> D:\school\课程\4大二下\Course Design of Game\TetrisAI\TetrisAI\Release\TetrisAI.exe
